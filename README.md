@@ -1,2 +1,2 @@
-# Axis-Of-Revolution.github.io
+# axis-of-revolution.github.io
 Personal Website
